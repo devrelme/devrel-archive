@@ -6,7 +6,7 @@
 
 从 2014 到 2015 这一年，通过各种平台，我不断与对岸的草根开源社群保持联系，持续考察和比较两岸开源社群的差异。今年参加 COSCUP 2015 期间，更是想办法补足之前缺失的地方，特别是与去年没能深入交流的朋友，加深了联系和交流，又与某些“COSCUP-Hater”聊，听听他们的看法。今年不仅与年轻人聊，更与年纪大的人交流，与传统大公司的人员交流，以获取更多”世代”之间的看法。与去年参加 COSCUP 之后对台湾开源社群的盛赞不同，今年我更多了几分理性和开明。也许也与这一年多来我本人心智看法的变动有关系。
 
-![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/dff-china-tw-community-1.jpg)
+![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/1003-dff-china-tw-community-1.jpg)
 _COSCUP 2015 的主题是“开放文化”_
 
 近几年，我更偏重去中心化、草根化的社群治理，所以这次去台湾完全只关注草根社群，已经不再丝毫考虑其他组织形式。决定在去年《[两岸开源文化面面观](https://linux.cn/article-3548-1.html)》一文的基础上，再写一篇《两岸**开源社群**面面观》。
@@ -15,7 +15,7 @@ _COSCUP 2015 的主题是“开放文化”_
 
 大陆的草根开源社群，很难有形成规模，形成社群优势的。即便是我参与的[北京Linux用户组（BLUG）](https://blug.sh/)也无法很好的发挥社群优势，这与社群成员闲散，社群整体偏向自由的风格是密不可分的。然而更多的草根社群，则是因为太过闲散，无法组织起有效的开发，或组织新的活动，也就无法产生什么新的价值，大量曾经活跃的社群名存实亡。产生这个问题的原因是，社群成员个人自治能力欠缺，总希望让别人来帮忙，没有意识到自己动手治理自己的社群。
 
-![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/dff-china-tw-community-2.jpg)
+![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/1003-dff-china-tw-community-2.jpg)
 _参加 Hacking Thursday 和 WoFOSS 联合举办的活动_
 
 相对来说，台湾开源社群的自治能力很强，成员的自治能力，自我负责的意识也比大陆强一些。这次在台湾恰逢[Hacking Thursday](http://www.hackingthursday.org/start)和 [WoFOSS](http://www.hackingthursday.org/start)两个社群一起联合举办活动，在参加活动的过程中，我与很多新朋友交流，发现台湾开源社群成员的自主意识比较强，社群自我治理的能力比较强。也就是相对大陆开源社群而言，台湾的开源社群更加成熟，有更多自身的价值，这样就能有稳定的社群文化输出，有更稳定的社群影响力。关于这一点，本文下面会多次提到。
@@ -28,7 +28,7 @@ _参加 Hacking Thursday 和 WoFOSS 联合举办的活动_
 
 这次在台湾的一个收获是，听了 LXDE 桌面环境的作者，同时也是 Android 项目的主要贡献者 Jim Huang (黄敬群，Jserv) 的封麦演讲。在演讲中，他回顾了台湾这十几年来开源历程，其中一个个响当当的开源项目，让我知道除了 LXDE 和 PCManX 以外，还有那么多国际知名的开源项目，比如 CLE（中文化的Linux桌面）、Open Webmail，Firefox OS（台湾主导），MCLinker（LLVM 链接器），uming/ukai 自由字体……而这些几乎没有大公司的主导或者影响。
 
-![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/dff-china-tw-community-3.jpg)
+![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/1003-dff-china-tw-community-3.jpg)
 _黄敬群在 COSCUP 2015 的封麦演讲_
 
 草根社群基于兴趣开发的开源项目，在大陆并不是没有，最终往往还没成气候就死掉，或者被大公司收入囊中，亦或者封闭起来自己创业，沦为商战炮灰。在商业大潮中，我们需要涌现更多由草根底层社群维护的开源项目，这需要从社群治理到项目管理等多方面共同入手和改变。
@@ -37,7 +37,7 @@ _黄敬群在 COSCUP 2015 的封麦演讲_
 
 草根社群的一个重要组成和人才来源就是学生社团。自从去年在 COSCUP 上知道了台湾的 [SITCON](http://sitcon.org/)（学生计算机年会）之后就一直很关注此组织的发展和其活动方式，我还曾观看 SITCON 2015 的在线直播。 除了办会，还在这两年推出了夏令营，社群讨论会等等多种活动形式。在我看来，像 SITCON 这种跨学校间的大范围社团联盟组织，具有非常强的生命力和社群影响力。今年 COSCUP 2015 上，无论是学生志愿者还是演讲者，很多都是 SITCON 的成员。他们在传播开源理念，传递贡献精神和参与意识上，付出了巨大的努力。
 
-![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/dff-china-tw-community-4.jpg)
+![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/1003-dff-china-tw-community-4.jpg)
 _SITCON 在今年香港开源年会上的演讲，SITCON 现已发展到香港_
 
 中国大陆没有一个跨学校间的社团联盟组织，即便有也会被取缔或者被党团收编，强力管控起来。很多高校都有自己的开源社团、Linux 协会等组织，绝大多数都在学校党委、团委等领导的强力管控之下，活动自由受到极大影响，更不可能有丝毫的社团影响力，难以在学校中吸引到学生群体的注意。更有些社团组织在学校的影响之下，变成了创业推进社团，完全走向了逐利。不过也有一些夹缝生存的社团组织，他们尽其所能创新活动形式，引入适宜学生的开源项目，引导学生进入开源贡献的队伍。这其中的佼佼者如中科大的[USTC LUG](https://lug.ustc.edu.cn/)和清华大学的[TUNA 协会](https://tuna.moe/)。
@@ -52,7 +52,7 @@ _SITCON 在今年香港开源年会上的演讲，SITCON 现已发展到香港_
 
 很多开源社群都面临这样一个问题，都在担心“继承人”的问题，很多社群就是因为没有人继承而慢慢死掉了。现在面临的情况是新的社群成员还没成气候，老的社群成员就离开了（事业变动，个人原因等等）。即便是北京有像 BLUG 这样从很早就定下代际传承的，也依旧面临青黄不接的问题，深深的担忧。这次参加台湾 [TOSSUG](http://www.tossug.org/)（台北开源软件用户组）的活动时，发现他们也同样发愁这个问题，很多时候发现开源贡献者或者参加线下活动的就是那些人，很少见到新面孔。
 
-![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/dff-china-tw-community-5.jpg)
+![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/1003-dff-china-tw-community-5.jpg)
 _黄敬群（右）和我_
 
 如何解决呢？11月来黄敬群北京，参加活动并和 BLUG 一起聚会聊天。他一针见血的说到**“开源社群需要更‘开源’”**（广开源路），需要社群更多包容能力，需要拓展更多的渠道，也需要积极培养新手的成长（这正是黄敬群现在台湾做的事情）。在大陆草根开源社群的生存空间和渠道很窄，这就限制了发展的能力，加之社群能力有限，发展困局非常严重。我依旧会在 BLUG 多作尝试，探索社群治理的新模式，努力开拓更多渠道和生存空间。
@@ -67,7 +67,7 @@ _黄敬群（右）和我_
 
 面临挑战，同时也蕴藏机遇。草根开源社群虽然轻视经济利益，但如果能有很好的产品，显然对其自身发展有极大的帮助。今年台湾[Ezgo](http://ezgo.westart.tw/)团队带我一起拜访了[Banana Pi](http://www.banana-pi.org/)的设计者洪宗胜老师，顺便参观了他的工作室。Banana Pi 是洪宗胜老师和深圳的开源硬件社群一起完成的产品，非常成功也有极大的影响力。目前还有很多芯片厂商希望与其合作。
 
-![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/dff-china-tw-community-6.jpg)
+![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/1003-dff-china-tw-community-6.jpg)
 _Banana Pi 的设计者洪宗胜老师_
 
 同样，还有脱胎自COSCUP的[“CPR 线路组”](http://cprteam.org/)，成功创业承接会务专业布线和网络架设的业务。
@@ -80,14 +80,14 @@ _Banana Pi 的设计者洪宗胜老师_
 
 大陆和台湾的草根开源社群，面对的挑战是相似相同的。台湾因为成员有相对较高的自治能力，社会环境比较自由（主要是互联网），解决问题也许会容易一些，社群治理会简单一些；而大陆的优势则是机会比较多，资本相对集中，适宜创业开发。既然如此，大陆和台湾的草根开源社群完全可以合作，共同建立跨越海峡的开源社群，推进开源在两岸间的双向落地。我相信草根开源社群，也就是去中心化的社群合作，要比其他方面的合作更容易，因为年轻人之间有相似或相同的文化，对去中心化的社群治理有广泛的认同，大家对真正的开源精神（黑客伦理）也有更多的共识——这是真实存在的共识，不是“没有共识，强说共识”。
 
-![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/dff-china-tw-community-7.jpg)
+![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/1003-dff-china-tw-community-7.jpg)
 _郝明义先生的赠书_
 
 我希望两岸间的开源社群合作，可以遵循**“自由自治，相互尊重，草根融合，联结共荣”**的原则。每个社群应懂得“自己的社群自己治理”；社群里的每个成员也应自负其则，切实负起发展自身社群的责任。同时社群和社群、人与人之间也应该尊重彼此社群的特性，尊重对方选择的社群发展路线（比如创业或停掉）。同时我希望的是底层草根之间的融合与合作，而不涉及企业商业公司社群，甚至政府部门；只有草根社群之间才有可能对真正的开源精神（也就是黑客伦理）有较多的共识，才有可能深度融合与联结。最终达到两岸开源社群的共同繁荣。为何我要提出这十六字原则，也与这一年来我对开源社群治理的看法有关，我认为只有自治才能共治，只有自私才能无私，只有自由才能共荣。郝明义先生在《如果台湾的四周是海洋》一书中说“要敢于和对岸合作”，这句话不仅说给台湾人，也说给大陆人。合作才能创造价值，闭门造车最终只会毁了自己。更何况，开源精神的本质，就是通过促进人与人之间的联结，创造更大的价值。
 
 2015 年是 COSCUP 的第十年，十年来 COSCUP 为台湾本地的开源推广和开源发展，推进人与人之间的联结，社群之间的合作，作出了不可磨灭的贡献。展望 COSCUP 2016，即将到来的 2016 年将会开启 COSCUP 的“后十年时代”，这里我斗胆提个不成熟的建议：不妨将 2016 年 COSCUP 的主题定为“两岸开源社群合作”吧。我衷心希望两岸开源社群可以加深合作，互通有无，互相融合，让 2016 年成为两岸开源社群合作的元年。
 
-![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/dff-china-tw-community-8.jpg)
+![](https://raw.githubusercontent.com/devrelme/mirror/master/2018/1003-dff-china-tw-community-8.jpg)
 _感谢200多位志愿者的贡献与付出，让今年 COSCUP 如此成功_
 
 转载自：[https://tonghuix.io/dff-china-tw-community/](https://tonghuix.io/dff-china-tw-community/)
